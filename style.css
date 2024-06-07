@@ -59,10 +59,14 @@ body{
 .prev-button{
     background-color: #fff6ce;
     border-radius: 50%;
+    height: 20px;
+    wight: 20px;
 }
 .next-button{
     background-color: #fff6ce;
     border-radius: 50%;
+    height: 20px;
+    wight: 20px;
 }
 .name-calendar{
     color: #fff6ce;
