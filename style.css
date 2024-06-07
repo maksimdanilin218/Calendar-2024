@@ -58,15 +58,17 @@ body{
 }
 .prev-button{
     background-color: #fff6ce;
-    border-radius: 50%;
+    border-radius: 100%;
+    border: none;
+    width: 20px;
     height: 20px;
-    wight: 20px;
 }
 .next-button{
     background-color: #fff6ce;
-    border-radius: 50%;
+    border-radius: 100%;
+    border: none;
+    width: 20px;
     height: 20px;
-    wight: 20px;
 }
 .name-calendar{
     color: #fff6ce;
