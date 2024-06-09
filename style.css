@@ -46,11 +46,12 @@ body{
     margin: 0 auto;
     position: relative;
     width: 261px;
-    height: 277px;
+    height: 310px;
     overflow: hidden;
 }
 .slider{
     border-radius: 15px;
+    width: 310px;
 }
 .button-slider{
     text-align: center;
